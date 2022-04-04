@@ -1,0 +1,292 @@
+{
+  "ingredients": {
+    "breads": [
+      {
+        "id": 1,
+        "type": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "type": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "type": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "type": "Integral"
+      }
+    ],
+    "meats": [
+      {
+        "id": 1,
+        "type": "Maminha"
+      },
+      {
+        "id": 2,
+        "type": "Alcatra"
+      },
+      {
+        "id": 3,
+        "type": "Picanha"
+      },
+      {
+        "id": 4,
+        "type": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "type": "Bacon"
+      },
+      {
+        "id": 2,
+        "type": "Cheddar"
+      },
+      {
+        "id": 3,
+        "type": "Salame"
+      },
+      {
+        "id": 4,
+        "type": "Tomate"
+      },
+      {
+        "id": 4,
+        "type": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "type": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "type": "Requested"
+    },
+    {
+      "id": 2,
+      "type": "In Production"
+    },
+    {
+      "id": 3,
+      "type": "Done"
+    }
+  ],
+  "burgers": [
+    {
+      "id": 5,
+      "status": "In Production"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "name": null,
+      "meat": null,
+      "bread": null,
+      "opcionais": [],
+      "status": "Requested",
+      "id": 10
+    },
+    {
+      "name": "Francine",
+      "meat": "Maminha",
+      "bread": "Italiano Branco",
+      "opcionais": [],
+      "status": "In Production",
+      "id": 11
+    },
+    {
+      "name": "Francine",
+      "meat": "Maminha",
+      "bread": "Italiano Branco",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 12
+    },
+    {
+      "name": "Francine",
+      "meat": "Maminha",
+      "bread": "Italiano Branco",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 13
+    },
+    {
+      "name": "Francine Pêpe",
+      "meat": "Picanha",
+      "bread": "Integral",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 14
+    },
+    {
+      "name": "Francine Pêpe",
+      "meat": "Maminha",
+      "bread": "Parmesão e Orégano",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 15
+    },
+    {
+      "name": "Francine",
+      "meat": "Veggie burger",
+      "bread": "Italiano Branco",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 16
+    },
+    {
+      "name": "Francine Melo da Silva Pepe",
+      "meat": "Alcatra",
+      "bread": "Integral",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 17
+    },
+    {
+      "name": "Francine Melo da Silva Pepe",
+      "meat": "Maminha",
+      "bread": "Italiano Branco",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 18
+    },
+    {
+      "name": "Francine",
+      "meat": "Alcatra",
+      "bread": "Italiano Branco",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 19
+    },
+    {
+      "name": "Francine",
+      "meat": "Alcatra",
+      "bread": "3 Queijos",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 20
+    },
+    {
+      "name": "Francine",
+      "meat": "Alcatra",
+      "bread": "3 Queijos",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 21
+    },
+    {
+      "name": "Francine Melo da Silva Pepe",
+      "meat": "Alcatra",
+      "bread": "3 Queijos",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 22
+    },
+    {
+      "name": "Francine Melo da Silva Pepe",
+      "meat": "Alcatra",
+      "bread": "3 Queijos",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 23
+    },
+    {
+      "name": "Francine Melo da Silva Pepe",
+      "meat": "Maminha",
+      "bread": "3 Queijos",
+      "opcionais": [
+        "opcional.type"
+      ],
+      "status": "Requested",
+      "id": 24
+    },
+    {
+      "name": "Francine",
+      "meat": "Maminha",
+      "bread": "3 Queijos",
+      "opcionais": [],
+      "status": "Requested",
+      "id": 25
+    },
+    {
+      "name": "Francine Melo da Silva Pepe",
+      "meat": "Maminha",
+      "bread": "3 Queijos",
+      "opcionais": [],
+      "status": "Requested",
+      "id": 26
+    },
+    {
+      "name": "Francine",
+      "meat": "Alcatra",
+      "bread": "3 Queijos",
+      "opcionais": [],
+      "status": "Requested",
+      "id": 27
+    },
+    {
+      "name": "Francine Melo da Silva Pepe",
+      "meat": "Picanha",
+      "bread": "Parmesão e Orégano",
+      "opcionais": [],
+      "status": "Requested",
+      "id": 28
+    },
+    {
+      "name": "Francine",
+      "meat": "",
+      "bread": "Italiano Branco",
+      "opcionais": [],
+      "status": "Requested",
+      "id": 29
+    },
+    {
+      "name": "Francine Melo da Silva Pepe",
+      "meat": "Alcatra",
+      "bread": "3 Queijos",
+      "opcionais": [],
+      "status": "Requested",
+      "id": 30
+    }
+  ]
+}
